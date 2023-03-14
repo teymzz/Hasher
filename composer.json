@@ -1,0 +1,19 @@
+{
+    "name": "spoova/hasher",
+    "description": "Package for hashing data with multiple hashing algorithm",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Spoova\\Hasher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akinola Saheed",
+            "email": "teymss@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
